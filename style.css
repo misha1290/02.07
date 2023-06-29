@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  list-style: none;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+/* body{
+  background-image: url(...);
+  background-position: 100% 100%;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Great Vibes', cursive;
+} */
+
+
+.carousel-control-next-icon {
+  background-image: url(https://cdn-icons-png.flaticon.com/512/25/25426.png);
+}
+.carousel-control-prev-icon {
+  background-image: url(https://free-png.ru/wp-content/uploads/2022/01/free-png.ru-196-340x340.png);
+}
+.carousel-indicators [data-bs-target] {
+  background-color: blueviolet;
+}
